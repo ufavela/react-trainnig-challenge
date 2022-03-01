@@ -2,7 +2,7 @@ import AppWrapper from './AppWrapper';
 
 function App() {
   return (
-    <AppWrapper text="Hello world!" type="warning"/>
+    <AppWrapper text="Hello world!" />
   );
 }
 
